@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="FSTU Open Source" />
+  <img src="../assets/banner.png" alt="FSTU Open Source" />
 </p># FSTU Open Source 🚀
 
 Welcome to the official open-source community of Fergana State Technical University.
